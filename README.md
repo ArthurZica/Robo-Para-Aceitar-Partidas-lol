@@ -14,6 +14,9 @@ Passos:
 https://www.python.org/downloads/
 
 **2-** Abrir o cmd do windows com o comando Win+R e digitando cmd.
+
 **3-** Digitar pip install pyautogui
+
 **4-** Acessar o a pasta através do cmd com o comando cd e o caminho da pasta do bot. Exemplo: "cd C:\Users\user\Desktop\Robo-Para-Aceitar-Partidas-lol"
+
 **5-** Após isso digitar o comando "pyhon codigo.py"
